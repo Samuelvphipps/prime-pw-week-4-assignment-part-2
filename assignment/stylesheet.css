@@ -1,1 +1,33 @@
-header{background-color: green;}
+header{
+    background-color: green;
+    text-align: center;
+}
+.info{
+    background-color: darkblue;
+    color: aliceblue;
+    text-align: center;
+
+}
+p{
+    padding-bottom: 10px;
+}
+h1{
+    padding: 10px;
+}
+
+h2{
+    padding-top: 10px;
+}
+h3{
+    color: blueviolet;
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 20px;
+
+}
+img{
+    border: 10px;
+    padding: 10px;
+    border-color: black;
+    margin: auto;
+}
