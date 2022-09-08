@@ -1,33 +1,52 @@
-header{
-    background-color: green;
-    text-align: center;
+body{
+    background-image: url(https://assets.ldscdn.org/ef/fb/effb0891e16df1b3ef95da36554fde795c9d925a/mountains_and_sky.jpeg);
+    margin: 20px;
 }
-.info{
-    background-color: darkblue;
-    color: aliceblue;
-    text-align: center;
 
+fieldset{
+    margin: auto;
 }
-p{
-    padding-bottom: 10px;
-}
+
 h1{
     padding: 10px;
 }
 
 h2{
-    padding-top: 10px;
+    padding: 20px 20px;
 }
+
 h3{
-    color: blueviolet;
-    background-color: yellowgreen;
+    color: darkblue;
+    background-color: lightblue;
     text-align: center;
+    border:10px solid black;
     padding: 20px;
 
 }
-img{
-    border: 10px;
-    padding: 10px;
-    border-color: black;
+
+header{
+    background-color: rgb(232, 236, 243);
+    text-align: center;
+}
+
+.info{
+    background-color: darkblue;
+    color: aliceblue;
+    text-align: center;
+    width: fit-content;
+    align-items: center;
     margin: auto;
 }
+
+img{
+    border: 10px solid black;
+    border-color: black;
+    margin: auto;
+    padding: 10px;
+}
+
+p{
+    padding-bottom: 10px;
+}
+
+
